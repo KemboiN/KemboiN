@@ -2,7 +2,7 @@
 - 👀 I’m a Backend Web Developer using Java, Spring Boot
 - 🌱 I’m currently learning Laravel and React
 - 💞️ I’m looking to collaborate on Java, Spring Boot
-- 📫 How to reach me on email through nehemiahkimutai32@gmail or on phone through 0713595565
+- 📫 How to reach me on email through kimutaikemboi750@gmail.com or on phone through 0713595565
 - 😄 Pronouns: ...He/? 
 - ⚡ Fun fact: Huh you know!!
 
