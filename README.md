@@ -2,7 +2,7 @@
 - 👀 I’m a Backend software Engineer using Java, Spring Boot
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Java, Spring Boot
-- 📫 How to reach me on email through nehemiahkimutaik@gmail.com or on phone through 0713595565
+- 📫 How to reach me on email through nehemiahkemboik@gmail.com or on phone through 0713595565
 - 😄 Pronouns: ...He/? 
 - ⚡ Fun fact: Huh you know!!
 
