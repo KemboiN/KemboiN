@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kimutai K. Nehemiah
-- 👀 I’m a Backend software Engineer using Java, Spring Boot
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Java, Spring Boot
-- 📫 How to reach me on email through nehemiahkemboik@gmail.com or on phone through 0713595565
+- 👀 I’m a Full-Stack software Engineer using Java, Spring Boot and  React
+- 💞️ I’m looking to collaborate on Java, Spring Boot  and React
+- 📫 Reach me on email through nehemiahkemboik@gmail.com or on phone through 0713595565
 - 😄 Pronouns: ...He/? 
 - ⚡ Fun fact: Huh you know!!
 
